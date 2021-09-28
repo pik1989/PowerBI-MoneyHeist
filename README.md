@@ -13,4 +13,5 @@ It all starts with this page.
 ![image](https://user-images.githubusercontent.com/34673684/135023400-dd6e2ac7-120e-4fe8-8a23-015bf5a9dd9d.png)
 
 
-Watch the full video:  [![Watch the full video: ](https://user-images.githubusercontent.com/34673684/135023696-64c3924d-2c45-4ea9-ac96-faad60edf9c5.png)](https://www.youtube.com/watch?v=UA2L6dN1jlU)
+# Watch the full video:  
+[![Watch the full video: ](https://user-images.githubusercontent.com/34673684/135023696-64c3924d-2c45-4ea9-ac96-faad60edf9c5.png)](https://www.youtube.com/watch?v=UA2L6dN1jlU)
